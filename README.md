@@ -35,7 +35,7 @@ Here's a look at the relations API
 ### Client:-
 The Client-side is built using React.js. It is deployed on Netlify.
 <br />
-Server Source Code: https://github.com/SarveshKadam/Relationship-Builder-Client
+Client Source Code: https://github.com/SarveshKadam/Relationship-Builder-Client
 <br /><br />
 Different pages are handled using Components structure.
 <br /><br />
