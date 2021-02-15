@@ -1,0 +1,14 @@
+
+
+
+.home{
+    position: relative;
+    background-color: #F8F8F8;
+}
+.navbar{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,34 @@
+.App{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input,Button,select{
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    margin: 5px;
+    text-align: center;
+    align-items: center;
+    vertical-align:center;
+}
+
+.list{
+    width: auto;
+    height: auto;
+    border: 1px solid #B0B0B0;
+    background-color: #F0F0F0;
+    margin-top: 5px;
+    align-items: center;
+}
+
+.create{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 3px;
+}
+
+
