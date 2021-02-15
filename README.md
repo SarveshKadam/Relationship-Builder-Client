@@ -30,7 +30,7 @@ Relations List API - https://relationship-degree-app.herokuapp.com/relations
 <br /><br />
 Here's a look at the relations API
 
-![restapi](https://user-images.githubusercontent.com/66166738/107911522-c7982280-6f82-11eb-81c4-5263252b526b.png)
+![API](https://user-images.githubusercontent.com/66166738/107912535-aafcea00-6f84-11eb-885b-b8605c2fe1b2.PNG)
 
 ### Client:-
 The Client-side is built using React.js. It is deployed on Netlify.
